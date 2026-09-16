@@ -1,6 +1,7 @@
 # Flight-Price-Prediction-EDA-with-98.5-r2_score
 this project includes flight data that has, source city, destination city, stops, duration, price,.. which is a good data for regression and EDA.
-# About the Dataset
+
+# About the Dataset
 This project utilizes a comprehensive flight price dataset containing "300153 records" and "11 features". The data represents flight booking options, capturing various attributes that influence the final ticket fare. It includes domestic/international flights with detailed temporal and categorical information, providing an excellent foundation for time-series and regression-based machine learning tasks.
 
 # Overview of the Project
